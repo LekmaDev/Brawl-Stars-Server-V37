@@ -38,7 +38,7 @@ You'll find some maps we've selected for you in the events tab.
 ![ScreenShot](https://cdn.discordapp.com/attachments/704364452891590778/885541462480146432/Screenshot_20210909-180521_BS_v37.jpg) 
 
 ### Got any question?
-Contact @ShockWave#5158 on Discord or open an issue.
+Contact @лемка#0001 on Discord or open an issue.
 
 ### Important Notice
 This is an experimental and incomplete server made just for fun. No database, no data saving. 
