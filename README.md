@@ -2,7 +2,7 @@
 
 Experimental Brawl Stars v37.222 server emulator written in Python.
 
-![ScreenShot](https://cdn.discordapp.com/attachments/704364452891590778/885540599590166568/Screenshot_20210909-180043_BS_v37.jpg) 
+![ScreenShot](https://media.discordapp.net/attachments/933065129241755718/1010143841938055248/Screenshot_20220819_165229.jpg) 
 
 ### Requirements:
 - Python 3.7 or higher
@@ -15,6 +15,16 @@ In a terminal, type __`pip install -r requirements.txt`__ then run the server us
 To connect to your server, a **patched client** is required. Download this [base APK](https://mega.nz/file/TbhCkCpL#tivStkGS_gAIZlGiQXl7CtPwgI1DCSLO7y_E6lfsGxQ) and change the IP in `libmg.config.so`. 
 
 ⚠️ This client is unstable and might crash sometimes. It is not recommended to use it for a production environment.
+
+### Lobby
+- Quests (visual)
+- Gameroom (by vanya_dev, They are disabled on the server because the client crashes)
+- Club (Beta)
+- Full OwnHomeDataMessage
+- Notification
+- Logic Box (didn't check)
+- Crediting trophies at the entrance
+
 ### Battles
 We've enabled offline battles so you can directly press "PLAY" to start a match.
 ![ScreenShot](https://cdn.discordapp.com/attachments/704364452891590778/885473792208543774/Screenshot_20210909-133614_BS_v36.jpg) 
